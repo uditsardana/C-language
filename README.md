@@ -1,2 +1,2 @@
 # C-language
-Practise of C language tutorial for beginners code with Harry
+Practise of C language tutorial from College Wallah Playlist.
